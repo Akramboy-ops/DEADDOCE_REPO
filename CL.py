@@ -6,7 +6,7 @@ def register(cb):
 class ZalupaMod(loader.Module):
 	strings = {"name": "BadCrypt"}
 	"""Худший модуль для шифровки за историю человечества
-	Remake by @zxcminimalized
+	Remake by @DeadDoce
 	Nedomodule by Artur Zalupov
 	"""
 	async def clcmd(self, message):
