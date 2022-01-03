@@ -7,7 +7,7 @@ def register(cb):
 	cb(ClipModulesMod())
 class ClipModulesMod(loader.Module):
 	"""All Clip Userbot Modules in one FTG Module
-	by @zxcminimalized sheesh"""
+	by @DeadDoce sheesh"""
 	strings = {'name': 'ClipModules'}
 	async def helpclipcmd(self, message):
 		"""Help?"""
