@@ -9,7 +9,7 @@ except:
 class ID3EditorMod(loader.Module):
 	"""Модуль, который может изменять теги по ответу на аудио.
 	
-	by @zxcminimalized
+	by @DeadDoce
 	"""
 	strings = {'name': 'ID3 Editor'}
 	async def titlecmd(self, message):
