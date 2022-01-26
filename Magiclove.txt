@@ -54,5 +54,5 @@ class ILYMod(loader.Module):
 				h * 4, rand[33], h * 4, "\n",
 				h * 9]))
 			await sleep(0.2)
-		await message.edit("<b>I FUCK YOU SM!</b>")
+		await message.edit("<b>FUCK YOU NIGGA!</b>")
 		
